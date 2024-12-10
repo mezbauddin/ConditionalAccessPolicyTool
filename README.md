@@ -1,11 +1,10 @@
 ### README.md for **Entra ID Conditional Access Policy Tool**
 
-```markdown
 # Entra ID Conditional Access Policy Tool
 
 ## Overview
 
-The Entra ID Conditional Access Policy Tool is a PowerShell script designed to retrieve, analyze, and export Conditional Access Policies from **Microsoft Entra ID**. It provides a comprehensive view of policy configurations, highlights potential improvements, and generates detailed reports for audit and compliance purposes.
+The **Entra ID Conditional Access Policy Tool** is a PowerShell script designed to retrieve, analyze, and export Conditional Access Policies from **Microsoft Entra ID**. It provides a comprehensive view of policy configurations, highlights potential improvements, and generates detailed reports for audit and compliance purposes.
 
 ## Features
 
