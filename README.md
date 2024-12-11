@@ -132,10 +132,3 @@ This project is licensed under the **MIT License**.
 ## Feedback and Contributions
 
 Your feedback and contributions are welcome! Feel free to submit issues or pull requests via GitHub.
-
----
-
-### Acknowledgments
-
-This tool leverages the **Microsoft Graph PowerShell SDK** to provide a seamless experience for managing and analyzing Conditional Access Policies.
-```
