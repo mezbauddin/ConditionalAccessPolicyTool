@@ -139,5 +139,3 @@ Your feedback and contributions are welcome! Feel free to submit issues or pull 
 
 This tool leverages the **Microsoft Graph PowerShell SDK** to provide a seamless experience for managing and analyzing Conditional Access Policies.
 ```
-
-This **README.md** is structured to provide clear instructions, features, examples, and use cases, making it user-friendly for anyone exploring the tool. Let me know if you need further refinements!
