@@ -1,5 +1,3 @@
-### README.md for **Entra ID Conditional Access Policy Tool**
-
 # Entra ID Conditional Access Policy Tool
 
 ## Overview
